@@ -53,6 +53,10 @@ The system allows:
 - API Gateway
 
 ---
+## Architecture Diagram
+![WhatsApp Image 2026-02-10 at 19 24 05 (1)](https://github.com/user-attachments/assets/a689a061-0ae8-4fb7-98b4-00f6cc936e60)
+
+---
 
 ## Architecture Workflow
 
